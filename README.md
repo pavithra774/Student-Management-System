@@ -26,10 +26,6 @@ and view student details using a simple graphical user interface.
 
 ```text
 Student-Management-System/
-main.py
-Student.db
-README.md
-
 ├── main.py
 ├── Student.db
 └── README.md
